@@ -72,7 +72,8 @@ GENOMIC_INTERPRETER/
     ├── ai_engine.py      # Clinical Risk & Pharma logic
     ├── bio_logic.py      # DNA Translation & Mutation logic
     ├── safety.py         # Input validation & Regex security
-    └── visualization.py  # 3D Rendering & XAI charts'''
+    └── visualization.py  # 3D Rendering & XAI charts
+```
 
 ## 🧠 Technical Challenges & Solutions
 * **The 3D Rendering Hurdle:** Overcame WebGL rendering issues in Streamlit by implementing `stmol` with `ipython_genutils` to bridge the IPython-to-Web communication gap.
