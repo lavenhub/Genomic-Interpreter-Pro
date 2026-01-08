@@ -83,5 +83,5 @@ By integrating **Explainable AI (XAI)** and **Structural Biology**, this tool al
 ---
 
 ## 🤝 Contact & Contributors
-* **[Your Name]** - [LinkedIn](https://linkedin.com/in/yourprofile)
-* **Hackathon Team:** [Your Team Name]
+* **Lavish** - [www.linkedin.com/in/lavish-patil-283734325]
+* **Hackathon Team:** [winn3rz]
