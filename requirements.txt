@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+biopython
+stmol
+py3Dmol
+ipython
+ipython_genutils
