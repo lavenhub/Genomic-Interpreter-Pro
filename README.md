@@ -85,5 +85,4 @@ GENOMIC_INTERPRETER/
 - [ ] **LLM Counseling:** Integration of a RAG-based LLM to explain results to patients in simple language.
 
 ## 🤝 Contact & Contributors
-* **Lavish** - [www.linkedin.com/in/lavish-patil-283734325]
-* **Hackathon Team:** [winn3rz]
+* **Lavish** - www.linkedin.com/in/lavish-patil-283734325
